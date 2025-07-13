@@ -1,6 +1,6 @@
-# mahshid-calculator
+# Mahshid-calculator
 
-A basic and responsive calculator built using Python and CustomTkinter.
+A simple and responsive calculator built using Python and CustomTkinter.
 
 ![Calculator Preview](images/screenshot.png)
 
