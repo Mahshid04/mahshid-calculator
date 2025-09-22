@@ -2,7 +2,7 @@
 
 A simple and responsive calculator built using Python and CustomTkinter.
 
-(images/screenshot.png)
+![Calculator Preview](images/screenshot.png)
 
 ---
 
